@@ -1,13 +1,52 @@
-.te-1{
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 222px;
-    margin-bottom: 0px;
-    margin-left: 560px;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+body{
+    background-color: black;
 }
-.btn1-1{
-    margin-left: 0px;
+.bros{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    z-index: 5555555;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    margin-top: em;
+    position: relative;
+    margin-top: 0px;	
+    margin-top: 220px;								
 }
-.src{
-    margin-left: 490px;
+#src{
+    display: inline-block;
+}
+#te-1{
+    color: white;
+}
+#btn1-1{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    font-weight: bold;
+    font-family: poppins;
+    border: 2px solid rgb(94, 94, 94);
+}
+#src{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    font-weight: bold;
+    font-family: poppins;
+    border: 2px solid white;
+}
+#te-1{
+    font-size: 18px;
+    margin-bottom: 2em;
+    font-weight: bold;
+    font-family: poppins;
+    vertical-align: middle;
+    color: white;
+    margin-bottom: 5px;
 }

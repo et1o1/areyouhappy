@@ -2,7 +2,7 @@
 body{
     background-color: black;
 }
-.bros{
+.div1{
 	display: flex;
     justify-content: center;
     align-items: center;
@@ -20,8 +20,8 @@ body{
 #btn1{
     padding-left: 30px;
     padding-right: 30px;
-    padding-top: 5px;
-    padding-bottom:5px;
+    padding-top: 5px ;
+    padding-bottom:5px ;
     font-weight: bold;
     font-family: poppins;
     border: 2px solid purple;
@@ -29,13 +29,13 @@ body{
 #btn2{
     padding-left: 30px;
     padding-right: 30px;
-    padding-top: 5px;
-    padding-bottom:5px;
+    padding-top: 5px ;
+    padding-bottom:5px ;
     font-weight: bold;
     font-family: poppins;
     border: 2px solid blue;
 }
-#btn{
+.btn{
     display: flex;
     justify-content:center;
     align-items: center;
@@ -43,13 +43,13 @@ body{
 }
 #btn1:hover{
     background: white;
-    border: 2px solid plum;
+    border: 2px solid black;
 }
 #btn2:hover{
     background: white;
-    border: 2px solid grey;
+    border: 2px solid black;
 }
-#te{
+.crush{
     font-size: 18px;
     margin-bottom: 2em;
     font-weight: bold;
